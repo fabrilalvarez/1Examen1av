@@ -6,8 +6,8 @@ public class ExamenCOD {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int iN = 11;
-        if (metodoMio(iN)) {
+        int valor = 11;
+        if (metodoMio(valor)) {
             System.out.println("Es numero primo ");
         } else {
             System.out.println("NO es numero primo");
