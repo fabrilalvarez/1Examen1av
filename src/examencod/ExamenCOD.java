@@ -9,7 +9,7 @@ public class ExamenCOD {
     public static void main(String[] args) {
  int iN = 11;
             	if (metodoMio(iN))
-System.out.println("Es numero primo");
+System.out.println("Es numero primo ");
 else
  System.out.println("NO es numero primo");           	 
           	 
